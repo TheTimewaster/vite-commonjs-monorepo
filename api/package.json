@@ -1,11 +1,11 @@
 {
-  "name": "@cjs/api",
+  "name": "@vcm/api",
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@cjs/cjs": "*"
+    "@vcm/cjs": "*"
   }
 }

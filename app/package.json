@@ -1,5 +1,5 @@
 {
-  "name": "@cjs/app",
+  "name": "@vcm/app",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "vue": "^3.2.41",
-    "@cjs/api": "*",
-    "@cjs/cjs": "*"
+    "@vcm/api": "*",
+    "@vcm/cjs": "*"
   },
   "devDependencies": {
     "@types/node": "^16.11.68",

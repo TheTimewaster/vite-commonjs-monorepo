@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { computed, ref } from 'vue';
-import M from "@cjs/api/math";
-import D from "@cjs/cjs/lib/div";
+import M from "@vcm/api/math";
+import D from "@vcm/cjs/lib/div";
 
 const x = ref<number>(0);
 const y= ref<number>(0);
